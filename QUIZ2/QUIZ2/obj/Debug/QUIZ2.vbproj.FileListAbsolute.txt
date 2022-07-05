@@ -1,0 +1,10 @@
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\bin\Debug\QUIZ2.exe.config
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\bin\Debug\QUIZ2.exe
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\bin\Debug\QUIZ2.pdb
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\bin\Debug\QUIZ2.xml
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.exe
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.xml
+d:\os_files\documents\visual studio 2013\Projects\QUIZ2\QUIZ2\obj\Debug\QUIZ2.pdb
